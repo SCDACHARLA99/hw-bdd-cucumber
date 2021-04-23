@@ -112,7 +112,7 @@ Update: You no longer need to implement the scenario for no ratings selected.
 
 To submit your assignment, please submit a `.zip` compressed archive
 file containing just your `features` directory. The command for doing
-this in a UNIX environment, from your app's root directory, is:
+this in a UNIX environment, from your app's root directory, is :-
 
 ```sh
 $ zip -r features.zip features
